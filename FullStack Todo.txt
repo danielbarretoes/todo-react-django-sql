@@ -1,0 +1,11 @@
+FullStack Todo
+
+Stack:		React.js, PostgreSQL, Django
+
+Front-end:	Node.js, Vite, React.js, TypeScript, Tailwind CSS, Shadcn, ReactRouter, Axios.
+
+Back-end:	PIP, Django, Django Rest Framework, Python 3, REST API, CORS, CRUD PostgreSQL.
+
+Repository: 	GitHub.
+
+Deployment: 	Render.com -> Frontend App, Backend App, PosgreSQL Database.
